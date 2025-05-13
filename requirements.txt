@@ -1,0 +1,10 @@
+aiohttp==3.11.18
+beautifulsoup4==4.13.4
+bs4==0.0.2
+certifi==2025.4.26
+lxml==5.4.0
+minio==7.2.15
+openai==1.78.0
+PyMuPDF==1.25.5
+
+
